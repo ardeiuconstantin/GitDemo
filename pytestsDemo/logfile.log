@@ -1,0 +1,12 @@
+2020-04-27 11:45:46,675 :INFO : pytestsDemo.test_logging :Information statement 
+2020-04-27 11:45:46,676 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-04-27 11:45:46,676 :ERROR : pytestsDemo.test_logging :A major error has happened
+2020-04-27 11:45:46,676 :CRITICAL : pytestsDemo.test_logging :Critical issue 
+2020-04-27 11:57:59,335 :INFO : pytestsDemo.BaseClass :Rahul
+2020-04-27 11:57:59,335 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2020-04-27 12:02:22,745 :INFO : pytestsDemo.BaseClass :Rahul
+2020-04-27 12:02:22,745 :INFO : pytestsDemo.BaseClass :rahulshettyacademy.com
+2020-04-27 12:02:22,748 :INFO : pytestsDemo.test_logging :Information statement 
+2020-04-27 12:02:22,749 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2020-04-27 12:02:22,749 :ERROR : pytestsDemo.test_logging :A major error has happened
+2020-04-27 12:02:22,749 :CRITICAL : pytestsDemo.test_logging :Critical issue 
